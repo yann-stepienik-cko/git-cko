@@ -1,0 +1,31 @@
+{
+  "name": "git-cko",
+  "version": "0.0.1",
+  "description": "Checkout.com git superset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "dev": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yann-stepienik-cko/git-cko.git"
+  },
+  "keywords": [
+    "git",
+    "flow"
+  ],
+  "author": "Yann Stepienik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yann-stepienik-cko/git-cko/issues"
+  },
+  "homepage": "https://github.com/yann-stepienik-cko/git-cko#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livescript": "^3.0.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-watch": "^4.3.10",
+    "livescript": "^1.5.0"
+  }
+}
